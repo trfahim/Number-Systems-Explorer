@@ -30,5 +30,5 @@
 ## How to Use
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/TRFAHIM/Number-Systems-Explorer.git
+   git clone https://github.com/trfahim/Number-Systems-Explorer.git
    cd Number-Systems-Explorer
